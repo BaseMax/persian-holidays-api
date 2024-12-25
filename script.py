@@ -5,6 +5,10 @@ from typing import List
 import json
 
 
+YEAR = 1403
+MAX_MONTH = 12
+
+
 def contains_persian_or_arabic_digits(text: str) -> bool:
 	# \u06F0-\u06F9 covers Persian digits.
 	# \u0660-\u0669 covers Arabic digits.
@@ -54,7 +58,7 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 
 	text = response.text
 
-	f = open(f"data-{year}-{month_str}.html", "w", encoding="utf-8")
+	f = open(f"data-{year}-{month}.html", "w", encoding="utf-8")
 	f.write(text)
 	f.close()
 
@@ -91,17 +95,21 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 			"date": date
 		})
 
-	with open(f'holidays-{month_str}.json', 'w', encoding='utf-8') as json_file:
+	with open(f'holidays-{month}.json', 'w', encoding='utf-8') as json_file:
 		json.dump(holidays, json_file, ensure_ascii=False, indent=4)
 
 	return holidays
 
 
-year = 1403
-max_month = 1
-max_month = 12
-for month in range(1, max_month + 1):
+all_holidays = []
+
+for month in range(1, MAX_MONTH + 1):
 	print(month)
 
-	days = get_for_a_month(year, month)
+	days = get_for_a_month(YEAR, month)
 	print(days)
+
+	all_holidays += days
+
+with open(f'holidays.json', 'w', encoding='utf-8') as json_file:
+	json.dump(all_holidays, json_file, ensure_ascii=False, indent=4)
