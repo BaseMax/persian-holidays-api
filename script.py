@@ -44,18 +44,30 @@ def get_for_a_month(year: int, month: int) -> List[str]:
     holidays = []
 
     for element in holiday_elements:
+        is_holiday = "eventHoliday" in element.get("class", [])
         event_name = ''.join([str(child) for child in element.children if isinstance(child, str)]).strip()
 
         event_date_span = element.select_one('span')
         event_date = event_date_span.get_text(strip=True).strip() if event_date_span else "No Date"
 
         event_bracket_text_span = element.select_one('span[style="white-space: nowrap"]')
-        bracket_text = event_bracket_text_span.get_text(strip=True).strip().lstrip('[').rstrip(']').strip() if event_bracket_text_span else "No Bracket Text"
+        bracket_text = event_bracket_text_span.get_text(strip=True).strip().lstrip('[').rstrip(']').strip() if event_bracket_text_span else ""
+
+        if bracket_text == "":
+            date = {
+                "type": "persian geo",
+                "date": event_date
+            }
+        else:
+            date = {
+                "type": "persian geo",
+                "date": bracket_text
+            }
 
         holidays.append({
+            "is_holiday": is_holiday,
             "event_name": event_name,
-            "event_date": event_date,
-            "bracket_text": bracket_text
+            "date": date
         })
 
     with open(f'holidays-{year}-{month}.json', 'w', encoding='utf-8') as json_file:
@@ -64,7 +76,8 @@ def get_for_a_month(year: int, month: int) -> List[str]:
     return holidays
 
 year = 1403
-for month in range(1, 13):
+max_month = 1
+for month in range(1, max_month + 1):
     print(month)
 
     days = get_for_a_month(year, month)
