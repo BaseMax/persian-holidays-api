@@ -77,12 +77,12 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 		if bracket_text == "":
 			date = {
 				"type": "shamsi",
-				"date": convert_to_english_digits(event_date)
+				"date": convert_to_english_digits(event_date).split(" ")
 			}
 		else:
 			date = {
 				"type": "hijri" if contains_persian_or_arabic_digits(bracket_text) else "gregorian",
-				"date": convert_to_english_digits(bracket_text)
+				"date": convert_to_english_digits(bracket_text).split(" ")
 			}
 
 		holidays.append({

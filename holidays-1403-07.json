@@ -4,7 +4,10 @@
         "event_name": "آغاز حمله مغول به ایران در پاییز 598 خورشیدی",
         "date": {
             "type": "shamsi",
-            "date": "1 مهر"
+            "date": [
+                "1",
+                "مهر"
+            ]
         }
     },
     {
@@ -12,7 +15,10 @@
         "event_name": "روز گرامیداشت سربازان وطن",
         "date": {
             "type": "shamsi",
-            "date": "4 مهر"
+            "date": [
+                "4",
+                "مهر"
+            ]
         }
     },
     {
@@ -20,7 +26,10 @@
         "event_name": "روز جهانی جهانگردی",
         "date": {
             "type": "gregorian",
-            "date": "27 September"
+            "date": [
+                "27",
+                "September"
+            ]
         }
     },
     {
@@ -28,7 +37,10 @@
         "event_name": "روز آتش نشانی و ایمنی",
         "date": {
             "type": "shamsi",
-            "date": "7 مهر"
+            "date": [
+                "7",
+                "مهر"
+            ]
         }
     },
     {
@@ -36,7 +48,10 @@
         "event_name": "سقوط هواپیمای حامل جمعی از فرماندهان جنگ (کلاهدوز، نامجو، فلاحی، فکوری، جهان آرا) در سال 1360",
         "date": {
             "type": "shamsi",
-            "date": "7 مهر"
+            "date": [
+                "7",
+                "مهر"
+            ]
         }
     },
     {
@@ -44,7 +59,10 @@
         "event_name": "روز بزرگداشت شمس تبریزی",
         "date": {
             "type": "shamsi",
-            "date": "7 مهر"
+            "date": [
+                "7",
+                "مهر"
+            ]
         }
     },
     {
@@ -52,7 +70,10 @@
         "event_name": "روزبزرگداشت مولوی",
         "date": {
             "type": "shamsi",
-            "date": "8 مهر"
+            "date": [
+                "8",
+                "مهر"
+            ]
         }
     },
     {
@@ -60,7 +81,10 @@
         "event_name": "روز جهانی ناشنوایان",
         "date": {
             "type": "gregorian",
-            "date": "30 September"
+            "date": [
+                "30",
+                "September"
+            ]
         }
     },
     {
@@ -68,7 +92,10 @@
         "event_name": "روز جهانی ترجمه و مترجم",
         "date": {
             "type": "gregorian",
-            "date": "30 September"
+            "date": [
+                "30",
+                "September"
+            ]
         }
     },
     {
@@ -76,7 +103,10 @@
         "event_name": "مهر روز،جشن مهرگان",
         "date": {
             "type": "shamsi",
-            "date": "10 مهر"
+            "date": [
+                "10",
+                "مهر"
+            ]
         }
     },
     {
@@ -84,7 +114,10 @@
         "event_name": "روز جهانی سالمندان",
         "date": {
             "type": "gregorian",
-            "date": "1 October"
+            "date": [
+                "1",
+                "October"
+            ]
         }
     },
     {
@@ -92,7 +125,10 @@
         "event_name": "آغاز هفته جهانی فضا",
         "date": {
             "type": "gregorian",
-            "date": "4 October"
+            "date": [
+                "4",
+                "October"
+            ]
         }
     },
     {
@@ -100,7 +136,10 @@
         "event_name": "روز دامپزشکی",
         "date": {
             "type": "shamsi",
-            "date": "14 مهر"
+            "date": [
+                "14",
+                "مهر"
+            ]
         }
     },
     {
@@ -108,7 +147,10 @@
         "event_name": "روز جهانی معلم",
         "date": {
             "type": "gregorian",
-            "date": "5 October"
+            "date": [
+                "5",
+                "October"
+            ]
         }
     },
     {
@@ -116,7 +158,10 @@
         "event_name": "روز ملی کودک",
         "date": {
             "type": "shamsi",
-            "date": "16 مهر"
+            "date": [
+                "16",
+                "مهر"
+            ]
         }
     },
     {
@@ -124,7 +169,10 @@
         "event_name": "روز جهانی پست",
         "date": {
             "type": "gregorian",
-            "date": "9 October"
+            "date": [
+                "9",
+                "October"
+            ]
         }
     },
     {
@@ -132,7 +180,10 @@
         "event_name": "روز جهانی مبارزه با حکم اعدام",
         "date": {
             "type": "gregorian",
-            "date": "10 October"
+            "date": [
+                "10",
+                "October"
+            ]
         }
     },
     {
@@ -140,7 +191,10 @@
         "event_name": "روز بزرگداشت حافظ",
         "date": {
             "type": "shamsi",
-            "date": "20 مهر"
+            "date": [
+                "20",
+                "مهر"
+            ]
         }
     },
     {
@@ -148,7 +202,10 @@
         "event_name": "روز جهانی دختر",
         "date": {
             "type": "gregorian",
-            "date": "11 October"
+            "date": [
+                "11",
+                "October"
+            ]
         }
     },
     {
@@ -156,7 +213,10 @@
         "event_name": "روز پیروزی کاوه و فریدون بر ضحاک",
         "date": {
             "type": "shamsi",
-            "date": "21 مهر"
+            "date": [
+                "21",
+                "مهر"
+            ]
         }
     },
     {
@@ -164,7 +224,11 @@
         "event_name": "ولادت امام حسن عسکری علیه السلام",
         "date": {
             "type": "hijri",
-            "date": "8 ربيع الثاني"
+            "date": [
+                "8",
+                "ربيع",
+                "الثاني"
+            ]
         }
     },
     {
@@ -172,7 +236,10 @@
         "event_name": "روز جهانی استاندارد",
         "date": {
             "type": "gregorian",
-            "date": "14 October"
+            "date": [
+                "14",
+                "October"
+            ]
         }
     },
     {
@@ -180,7 +247,11 @@
         "event_name": "وفات حضرت معصومه سلام الله علیها",
         "date": {
             "type": "hijri",
-            "date": "10 ربيع الثاني"
+            "date": [
+                "10",
+                "ربيع",
+                "الثاني"
+            ]
         }
     },
     {
@@ -188,7 +259,10 @@
         "event_name": "روز جهانی عصای سفید",
         "date": {
             "type": "gregorian",
-            "date": "15 October"
+            "date": [
+                "15",
+                "October"
+            ]
         }
     },
     {
@@ -196,7 +270,10 @@
         "event_name": "روز جهانی غذا",
         "date": {
             "type": "gregorian",
-            "date": "16 October"
+            "date": [
+                "16",
+                "October"
+            ]
         }
     },
     {
@@ -204,7 +281,10 @@
         "event_name": "روز تربیت بدنی و ورزش",
         "date": {
             "type": "shamsi",
-            "date": "26 مهر"
+            "date": [
+                "26",
+                "مهر"
+            ]
         }
     },
     {
@@ -212,7 +292,10 @@
         "event_name": "روز جهانی ریشه کنی فقر",
         "date": {
             "type": "gregorian",
-            "date": "17 October"
+            "date": [
+                "17",
+                "October"
+            ]
         }
     },
     {
@@ -220,7 +303,10 @@
         "event_name": "زادروز ستارخان ملقب به سردار ملی و از سرداران جنبش مشروطه ایران",
         "date": {
             "type": "shamsi",
-            "date": "28 مهر"
+            "date": [
+                "28",
+                "مهر"
+            ]
         }
     },
     {
@@ -228,7 +314,10 @@
         "event_name": "روز ملی کوهنورد",
         "date": {
             "type": "shamsi",
-            "date": "29 مهر"
+            "date": [
+                "29",
+                "مهر"
+            ]
         }
     }
 ]

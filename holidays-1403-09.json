@@ -4,7 +4,10 @@
         "event_name": "آذر جشن",
         "date": {
             "type": "shamsi",
-            "date": "1 آذر"
+            "date": [
+                "1",
+                "آذر"
+            ]
         }
     },
     {
@@ -12,7 +15,10 @@
         "event_name": "روز جهانی فلسفه",
         "date": {
             "type": "gregorian",
-            "date": "21 November"
+            "date": [
+                "21",
+                "November"
+            ]
         }
     },
     {
@@ -20,7 +26,10 @@
         "event_name": "روز بسیج مستضعفان",
         "date": {
             "type": "shamsi",
-            "date": "5 آذر"
+            "date": [
+                "5",
+                "آذر"
+            ]
         }
     },
     {
@@ -28,7 +37,10 @@
         "event_name": "روز جهانی مبارزه با خشونت علیه زنان",
         "date": {
             "type": "gregorian",
-            "date": "25 November"
+            "date": [
+                "25",
+                "November"
+            ]
         }
     },
     {
@@ -36,7 +48,10 @@
         "event_name": "سالروز عملیات مروارید و روز نیروی دریایی",
         "date": {
             "type": "shamsi",
-            "date": "7 آذر"
+            "date": [
+                "7",
+                "آذر"
+            ]
         }
     },
     {
@@ -44,7 +59,10 @@
         "event_name": "جشن آذرگان ،آذر روز",
         "date": {
             "type": "shamsi",
-            "date": "9 آذر"
+            "date": [
+                "9",
+                "آذر"
+            ]
         }
     },
     {
@@ -52,7 +70,10 @@
         "event_name": "روز جهانی ایدز",
         "date": {
             "type": "gregorian",
-            "date": "1 December"
+            "date": [
+                "1",
+                "December"
+            ]
         }
     },
     {
@@ -60,7 +81,10 @@
         "event_name": "روز بیمه",
         "date": {
             "type": "shamsi",
-            "date": "13 آذر"
+            "date": [
+                "13",
+                "آذر"
+            ]
         }
     },
     {
@@ -68,7 +92,10 @@
         "event_name": "روز جهانی معلولان",
         "date": {
             "type": "gregorian",
-            "date": "3 December"
+            "date": [
+                "3",
+                "December"
+            ]
         }
     },
     {
@@ -76,7 +103,11 @@
         "event_name": "شهادت حضرت فاطمه زهرا سلام الله علیها",
         "date": {
             "type": "hijri",
-            "date": "3 جمادي الثانيه"
+            "date": [
+                "3",
+                "جمادي",
+                "الثانيه"
+            ]
         }
     },
     {
@@ -84,7 +115,10 @@
         "event_name": "روز حسابدار",
         "date": {
             "type": "shamsi",
-            "date": "15 آذر"
+            "date": [
+                "15",
+                "آذر"
+            ]
         }
     },
     {
@@ -92,7 +126,10 @@
         "event_name": "روز دانشجو",
         "date": {
             "type": "shamsi",
-            "date": "16 آذر"
+            "date": [
+                "16",
+                "آذر"
+            ]
         }
     },
     {
@@ -100,7 +137,10 @@
         "event_name": "روز جهانی حقوق بشر",
         "date": {
             "type": "gregorian",
-            "date": "10 December"
+            "date": [
+                "10",
+                "December"
+            ]
         }
     },
     {
@@ -108,7 +148,10 @@
         "event_name": "روز جهانی کوهستان",
         "date": {
             "type": "gregorian",
-            "date": "11 December"
+            "date": [
+                "11",
+                "December"
+            ]
         }
     },
     {
@@ -116,7 +159,10 @@
         "event_name": "سالروز نجات آذربایجان",
         "date": {
             "type": "shamsi",
-            "date": "21 آذر"
+            "date": [
+                "21",
+                "آذر"
+            ]
         }
     },
     {
@@ -124,7 +170,10 @@
         "event_name": "روز پژوهش و فنآوری",
         "date": {
             "type": "shamsi",
-            "date": "25 آذر"
+            "date": [
+                "25",
+                "آذر"
+            ]
         }
     },
     {
@@ -132,7 +181,10 @@
         "event_name": "جشن شب یلدا، شب چلّه",
         "date": {
             "type": "shamsi",
-            "date": "30 آذر"
+            "date": [
+                "30",
+                "آذر"
+            ]
         }
     }
 ]
