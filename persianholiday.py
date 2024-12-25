@@ -53,10 +53,6 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 
 	text = response.text
 
-	f = open(f"data-{year}-{month}.html", "w", encoding="utf-8")
-	f.write(text)
-	f.close()
-
 	soup = BeautifulSoup(text, 'html.parser')
 
 	holiday_elements = soup.select('ul.list-unstyled li')
