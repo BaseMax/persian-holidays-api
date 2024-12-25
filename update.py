@@ -12,8 +12,8 @@ for month in range(1, MAX_MONTH + 1):
 	holidays = get_for_a_month(YEAR, month)
 	print(holidays)
 
-	with open(f'holidays-{month}.json', 'w', encoding='utf-8') as json_file:
-		json.dump(holidays, json_file, ensure_ascii=False, indent=4)
+	# with open(f'holidays-{month}.json', 'w', encoding='utf-8') as json_file:
+	# 	json.dump(holidays, json_file, ensure_ascii=False, indent=4)
 
 	all_holidays += holidays
 
