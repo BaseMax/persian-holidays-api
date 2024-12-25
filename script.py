@@ -91,7 +91,7 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 			"date": date
 		})
 
-	with open(f'holidays-{year}-{month_str}.json', 'w', encoding='utf-8') as json_file:
+	with open(f'holidays-{month_str}.json', 'w', encoding='utf-8') as json_file:
 		json.dump(holidays, json_file, ensure_ascii=False, indent=4)
 
 	return holidays
