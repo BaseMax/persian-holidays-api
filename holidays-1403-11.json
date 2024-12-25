@@ -1,0 +1,154 @@
+[
+    {
+        "is_holiday": false,
+        "event_name": "زادروز فردوسی",
+        "date": {
+            "type": "shamsi",
+            "date": "1 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "بهمن روز، جشن بهمنگان",
+        "date": {
+            "type": "shamsi",
+            "date": "2 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "جشن نوسره",
+        "date": {
+            "type": "shamsi",
+            "date": "5 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "شهادت امام موسی کاظم علیه السلام",
+        "date": {
+            "type": "hijri",
+            "date": "25 رجب"
+        }
+    },
+    {
+        "is_holiday": true,
+        "event_name": "مبعث رسول اکرم (ص)",
+        "date": {
+            "type": "hijri",
+            "date": "27 رجب"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "جشن سده، گرامیداشتِ کشف آتش به دستِ هوشنگ شاه",
+        "date": {
+            "type": "shamsi",
+            "date": "10 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "بازگشت امام خمینی (ره) به ایران",
+        "date": {
+            "type": "shamsi",
+            "date": "12 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "ولادت سالار شهیدان، امام حسین علیه السلام و روز پاسدار",
+        "date": {
+            "type": "hijri",
+            "date": "3 شعبان"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "جشن میانه زمستان",
+        "date": {
+            "type": "shamsi",
+            "date": "15 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "ولادت ابوالفضل العباس علیه السلام و روز جانباز",
+        "date": {
+            "type": "hijri",
+            "date": "4 شعبان"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "ولادت امام زین العابدین علیه السلام",
+        "date": {
+            "type": "hijri",
+            "date": "5 شعبان"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "روز نیروی هوایی",
+        "date": {
+            "type": "shamsi",
+            "date": "19 بهمن"
+        }
+    },
+    {
+        "is_holiday": true,
+        "event_name": "پیروزی انقلاب اسلامی",
+        "date": {
+            "type": "shamsi",
+            "date": "22 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "ولادت علی اکبر علیه السلام و روز جوان",
+        "date": {
+            "type": "hijri",
+            "date": "11 شعبان"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "حمله به سفارت روسیه و قتل گریبایدوف سفیر روسیه تزاری در ایران",
+        "date": {
+            "type": "gregorian",
+            "date": "11 February"
+        }
+    },
+    {
+        "is_holiday": true,
+        "event_name": "ولادت حضرت قائم عجل الله تعالی فرجه و جشن نیمه شعبان",
+        "date": {
+            "type": "hijri",
+            "date": "15 شعبان"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "جشن ولنتاین",
+        "date": {
+            "type": "gregorian",
+            "date": "14 February"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "جشن سپندارمذگان و روز عشق",
+        "date": {
+            "type": "shamsi",
+            "date": "29 بهمن"
+        }
+    },
+    {
+        "is_holiday": false,
+        "event_name": "فاجعه انفجار قطار نیشابور [1382 خورشیدی]",
+        "date": {
+            "type": "shamsi",
+            "date": "29 بهمن"
+        }
+    }
+]
