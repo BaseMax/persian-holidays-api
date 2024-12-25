@@ -1,107 +1,170 @@
 [
     {
+        "is_holiday": false,
         "event_name": "روز بهره وری و بهینه سازی مصرف",
-        "event_date": "۱ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "1 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت ملاصدرا",
-        "event_date": "۱ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "1 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "فروریختن ساختمان متروپل در آبادان",
-        "event_date": "۲ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "2 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "فتح خرمشهر در عملیات بیت المقدس و روز مقاومت، ایثار و پیروزی",
-        "event_date": "۳ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "3 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز دزفول، روز مقاومت و پایداری",
-        "event_date": "۴ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "4 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "خرداد روز،جشن خردادگان",
-        "event_date": "۶ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "6 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی بدون دخانیات",
-        "event_date": "۱۱ خرداد",
-        "bracket_text": "31 May"
+        "date": {
+            "type": "gregorian",
+            "date": "31 May"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "رحلت حضرت امام خمینی",
-        "event_date": "۱۴ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "14 خرداد"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "قیام 15 خرداد",
-        "event_date": "۱۵ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "15 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی محیط زیست",
-        "event_date": "۱۶ خرداد",
-        "bracket_text": "5 June"
+        "date": {
+            "type": "gregorian",
+            "date": "5 June"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "شهادت امام محمد تقی علیه السلام",
-        "event_date": "۱۸ خرداد",
-        "bracket_text": "٢٩ ذوالقعده"
+        "date": {
+            "type": "hijri",
+            "date": "29 ذوالقعده"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی صنایع دستی",
-        "event_date": "۲۱ خرداد",
-        "bracket_text": "10 June"
+        "date": {
+            "type": "gregorian",
+            "date": "10 June"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی مبارزه با کار کودکان",
-        "event_date": "۲۳ خرداد",
-        "bracket_text": "12 June"
+        "date": {
+            "type": "gregorian",
+            "date": "12 June"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز ملی گل وگیاه",
-        "event_date": "۲۵ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "25 خرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "شهادت امام محمد باقر علیه السلام",
-        "event_date": "۲۵ خرداد",
-        "bracket_text": "٧ ذوالحجه"
+        "date": {
+            "type": "hijri",
+            "date": "7 ذوالحجه"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی اهدای خون",
-        "event_date": "۲۵ خرداد",
-        "bracket_text": "14 June"
+        "date": {
+            "type": "gregorian",
+            "date": "14 June"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز عرفه",
-        "event_date": "۲۷ خرداد",
-        "bracket_text": "٩ ذوالحجه"
+        "date": {
+            "type": "hijri",
+            "date": "9 ذوالحجه"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی پدر",
-        "event_date": "۲۷ خرداد",
-        "bracket_text": "16 June"
+        "date": {
+            "type": "gregorian",
+            "date": "16 June"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی بیابان زدایی",
-        "event_date": "۲۸ خرداد",
-        "bracket_text": "17 June"
+        "date": {
+            "type": "gregorian",
+            "date": "17 June"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "عید سعید قربان",
-        "event_date": "۲۸ خرداد",
-        "bracket_text": "١٠ ذوالحجه"
+        "date": {
+            "type": "hijri",
+            "date": "10 ذوالحجه"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز زلزله رودبار و منجیل [1369خورشیدی]",
-        "event_date": "۳۱ خرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "31 خرداد"
+        }
     }
 ]

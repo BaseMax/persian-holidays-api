@@ -1,52 +1,82 @@
 [
     {
+        "is_holiday": false,
         "event_name": "اَمرداد روز،جشن  اَمردادگان",
-        "event_date": "۷ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "7 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت شیخ شهاب الدین سهروردی",
-        "event_date": "۸ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "8 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "جشن چله تابستان",
-        "event_date": "۱۰ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "10 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "آغاز هفته جهانی شیردهی",
-        "event_date": "۱۱ اَمرداد",
-        "bracket_text": "1 August"
+        "date": {
+            "type": "gregorian",
+            "date": "1 August"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز صدور فرمان مشروطیت",
-        "event_date": "۱۴ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "14 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز خبرنگار",
-        "event_date": "۱۷ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "17 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی چپ دست ها",
-        "event_date": "۲۳ اَمرداد",
-        "bracket_text": "13 August"
+        "date": {
+            "type": "gregorian",
+            "date": "13 August"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز وقایع 28 مرداد پس از برکناری محمد مصدق‌السلطنه",
-        "event_date": "۲۸ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "28 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز فاجعه آتش زدن سینما رکس آبادان",
-        "event_date": "۲۸ اَمرداد",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "28 اَمرداد"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی عکاسی",
-        "event_date": "۲۹ اَمرداد",
-        "bracket_text": "19 August"
+        "date": {
+            "type": "gregorian",
+            "date": "19 August"
+        }
     }
 ]

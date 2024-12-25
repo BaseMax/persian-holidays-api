@@ -1,87 +1,138 @@
 [
     {
+        "is_holiday": false,
         "event_name": "آذر جشن",
-        "event_date": "۱ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "1 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی فلسفه",
-        "event_date": "۱ آذر",
-        "bracket_text": "21 November"
+        "date": {
+            "type": "gregorian",
+            "date": "21 November"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بسیج مستضعفان",
-        "event_date": "۵ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "5 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی مبارزه با خشونت علیه زنان",
-        "event_date": "۵ آذر",
-        "bracket_text": "25 November"
+        "date": {
+            "type": "gregorian",
+            "date": "25 November"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز عملیات مروارید و روز نیروی دریایی",
-        "event_date": "۷ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "7 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "جشن آذرگان ،آذر روز",
-        "event_date": "۹ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "9 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی ایدز",
-        "event_date": "۱۱ آذر",
-        "bracket_text": "1 December"
+        "date": {
+            "type": "gregorian",
+            "date": "1 December"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بیمه",
-        "event_date": "۱۳ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "13 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی معلولان",
-        "event_date": "۱۳ آذر",
-        "bracket_text": "3 December"
+        "date": {
+            "type": "gregorian",
+            "date": "3 December"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "شهادت حضرت فاطمه زهرا سلام الله علیها",
-        "event_date": "۱۵ آذر",
-        "bracket_text": "٣ جمادي الثانيه"
+        "date": {
+            "type": "hijri",
+            "date": "3 جمادي الثانيه"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز حسابدار",
-        "event_date": "۱۵ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "15 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز دانشجو",
-        "event_date": "۱۶ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "16 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی حقوق بشر",
-        "event_date": "۲۰ آذر",
-        "bracket_text": "10 December"
+        "date": {
+            "type": "gregorian",
+            "date": "10 December"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی کوهستان",
-        "event_date": "۲۱ آذر",
-        "bracket_text": "11 December"
+        "date": {
+            "type": "gregorian",
+            "date": "11 December"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز نجات آذربایجان",
-        "event_date": "۲۱ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "21 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز پژوهش و فنآوری",
-        "event_date": "۲۵ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "25 آذر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "جشن شب یلدا، شب چلّه",
-        "event_date": "۳۰ آذر",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "30 آذر"
+        }
     }
 ]

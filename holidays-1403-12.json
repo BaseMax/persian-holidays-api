@@ -1,77 +1,122 @@
 [
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت زن و زمین",
-        "event_date": "۵ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "5 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت خواجه نصیر الدین طوسی و روز مهندس",
-        "event_date": "۵ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "5 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز استقلال کانون وکلای دادگستری و روز وکیل مدافع",
-        "event_date": "۷ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "7 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز درختکاری",
-        "event_date": "۱۵ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "15 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روزجهانی زنان",
-        "event_date": "۱۸ اسفند",
-        "bracket_text": "8 March"
+        "date": {
+            "type": "gregorian",
+            "date": "8 March"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی عدد پی  π",
-        "event_date": "۲۴ اسفند",
-        "bracket_text": "14 March"
+        "date": {
+            "type": "gregorian",
+            "date": "14 March"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "پایان سرایش شاهنامه",
-        "event_date": "۲۵ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "25 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت اختر چرخ ادب، پروین اعتصامی",
-        "event_date": "۲۵ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "25 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "ولادت امام حسن مجتبی علیه السلام",
-        "event_date": "۲۶ اسفند",
-        "bracket_text": "١٥ رمضان"
+        "date": {
+            "type": "hijri",
+            "date": "15 رمضان"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "جشن چهارشنبه سوری",
-        "event_date": "۲۸ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "28 اسفند"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "روز ملی شدن صنعت نفت ایران",
-        "event_date": "۲۹ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "29 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "شب قدر",
-        "event_date": "۲۹ اسفند",
-        "bracket_text": "١٨ رمضان"
+        "date": {
+            "type": "hijri",
+            "date": "18 رمضان"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "ضربت خوردن حضرت علی علیه السلام",
-        "event_date": "۳۰ اسفند",
-        "bracket_text": "١٩ رمضان"
+        "date": {
+            "type": "hijri",
+            "date": "19 رمضان"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "آخرین روز سال",
-        "event_date": "۳۰ اسفند",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "30 اسفند"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی شادی",
-        "event_date": "۳۰ اسفند",
-        "bracket_text": "20 March"
+        "date": {
+            "type": "gregorian",
+            "date": "20 March"
+        }
     }
 ]

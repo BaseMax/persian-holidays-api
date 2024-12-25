@@ -1,14 +1,13 @@
-import requests
 from bs4 import BeautifulSoup
+import re
+import requests
 from typing import List
 import json
-import re
 
 def convert_to_english_digits(text: str) -> str:
 	digit_map = str.maketrans(
-		'٠١٢٣٤٥٦٧٨٩'
-		+ '۰۱۲۳۴۵۶۷۸۹',
-		'0123456789'
+		'٠١٢٣٤٥٦٧٨٩' + '۰۱۲۳۴۵۶۷۸۹',
+		'01234567890123456789'
 	)
 	
 	return text.translate(digit_map)

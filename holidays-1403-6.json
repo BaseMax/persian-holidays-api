@@ -1,117 +1,186 @@
 [
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت ابوعلی سینا و روز پزشک",
-        "event_date": "۱ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "1 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "آغاز هفته دولت",
-        "event_date": "۲ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "2 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "زادروز کوروش بزرگ",
-        "event_date": "۴ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "4 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "شهریور روز،جشن شهریورگان",
-        "event_date": "۴ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "4 شهریور"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "اربعین حسینی",
-        "event_date": "۴ شهریور",
-        "bracket_text": "٢٠ صفر"
+        "date": {
+            "type": "hijri",
+            "date": "20 صفر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت محمدبن زکریای رازی و روز داروساز",
-        "event_date": "۵ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "5 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "انفجار در دفتر نخست‌وزیری جمهوری اسلامی ایران، روز مبارزه با تروریسم",
-        "event_date": "۸ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "8 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روزصنعت چاپ",
-        "event_date": "۱۱ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "11 شهریور"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "رحلت  رسول اکرم؛شهادت امام حسن مجتبی علیه السلام",
-        "event_date": "۱۲ شهریور",
-        "bracket_text": "٢٨ صفر"
+        "date": {
+            "type": "hijri",
+            "date": "28 صفر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "سالروز شهادت رئیسعلی دلواری، سردار بزرگ میهن و فرمانده قیام جنوب علیه اشغالگران انگلیسی",
-        "event_date": "۱۲ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "12 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز بزرگداشت ابوریحان بیرونی",
-        "event_date": "۱۳ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "13 شهریور"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "شهادت امام رضا علیه السلام",
-        "event_date": "۱۴ شهریور",
-        "bracket_text": "٣٠ صفر"
+        "date": {
+            "type": "hijri",
+            "date": "30 صفر"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "هجرت پیامبر اکرم از مکه به مدینه",
-        "event_date": "۱۵ شهریور",
-        "bracket_text": "١ ربيع الاول"
+        "date": {
+            "type": "hijri",
+            "date": "1 ربيع الاول"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی پیشگیری از خودکشی",
-        "event_date": "۲۰ شهریور",
-        "bracket_text": "10 September"
+        "date": {
+            "type": "gregorian",
+            "date": "10 September"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز سینما",
-        "event_date": "۲۱ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "21 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "حمله به برج‌های دوقلوی مرکز تجارت جهانی",
-        "event_date": "۲۱ شهریور",
-        "bracket_text": "11 September"
+        "date": {
+            "type": "gregorian",
+            "date": "11 September"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "شهادت امام حسن عسکری علیه السلام",
-        "event_date": "۲۲ شهریور",
-        "bracket_text": "٨ ربيع الاول"
+        "date": {
+            "type": "hijri",
+            "date": "8 ربيع الاول"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز گرامیداشت برنامه نویسان",
-        "event_date": "۲۲ شهریور",
-        "bracket_text": "12 September"
+        "date": {
+            "type": "gregorian",
+            "date": "12 September"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "میلاد رسول اکرم به روایت اهل سنت",
-        "event_date": "۲۶ شهریور",
-        "bracket_text": "١٢ ربيع الاول"
+        "date": {
+            "type": "hijri",
+            "date": "12 ربيع الاول"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز شعر و ادب پارسی و  روز بزرگداشت استاد شهریار",
-        "event_date": "۲۷ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "27 شهریور"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "آغاز هفته دفاع مقدس",
-        "event_date": "۳۱ شهریور",
-        "bracket_text": ""
+        "date": {
+            "type": "shamsi",
+            "date": "31 شهریور"
+        }
     },
     {
+        "is_holiday": true,
         "event_name": "میلاد رسول اکرم و امام جعفر صادق علیه السلام",
-        "event_date": "۳۱ شهریور",
-        "bracket_text": "١٧ ربيع الاول"
+        "date": {
+            "type": "hijri",
+            "date": "17 ربيع الاول"
+        }
     },
     {
+        "is_holiday": false,
         "event_name": "روز جهانی صلح",
-        "event_date": "۳۱ شهریور",
-        "bracket_text": "21 September"
+        "date": {
+            "type": "gregorian",
+            "date": "21 September"
+        }
     }
 ]

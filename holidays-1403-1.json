@@ -3,15 +3,15 @@
         "is_holiday": true,
         "event_name": "جشن نوروز/جشن سال نو",
         "date": {
-            "type": "persian geo",
-            "date": "۱ فروردین"
+            "type": "shamsi",
+            "date": "1 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز جهانی شادی",
         "date": {
-            "type": "persian geo",
+            "type": "gregorian",
             "date": "20 March"
         }
     },
@@ -19,15 +19,15 @@
         "is_holiday": true,
         "event_name": "عیدنوروز",
         "date": {
-            "type": "persian geo",
-            "date": "۲ فروردین"
+            "type": "shamsi",
+            "date": "2 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز جهانی نوروز",
         "date": {
-            "type": "persian geo",
+            "type": "gregorian",
             "date": "21 March"
         }
     },
@@ -35,23 +35,23 @@
         "is_holiday": true,
         "event_name": "عیدنوروز",
         "date": {
-            "type": "persian geo",
-            "date": "۳ فروردین"
+            "type": "shamsi",
+            "date": "3 فروردین"
         }
     },
     {
         "is_holiday": true,
         "event_name": "عیدنوروز",
         "date": {
-            "type": "persian geo",
-            "date": "۴ فروردین"
+            "type": "shamsi",
+            "date": "4 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز جهانی هواشناسی",
         "date": {
-            "type": "persian geo",
+            "type": "gregorian",
             "date": "23 March"
         }
     },
@@ -59,31 +59,31 @@
         "is_holiday": false,
         "event_name": "روز امید، روز شادباش نویسی",
         "date": {
-            "type": "persian geo",
-            "date": "۶ فروردین"
+            "type": "shamsi",
+            "date": "6 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "زادروز اَشو زرتشت، اَبَراِنسان بزرگ تاریخ",
         "date": {
-            "type": "persian geo",
-            "date": "۶ فروردین"
+            "type": "shamsi",
+            "date": "6 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "ولادت امام حسن مجتبی علیه السلام",
         "date": {
-            "type": "persian geo",
-            "date": "١٥ رمضان"
+            "type": "hijri",
+            "date": "15 رمضان"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز جهانی تئاتر",
         "date": {
-            "type": "persian geo",
+            "type": "gregorian",
             "date": "27 March"
         }
     },
@@ -91,71 +91,71 @@
         "is_holiday": false,
         "event_name": "جشن آبانگاه",
         "date": {
-            "type": "persian geo",
-            "date": "۱۰ فروردین"
+            "type": "shamsi",
+            "date": "10 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "شب قدر",
         "date": {
-            "type": "persian geo",
-            "date": "١٨ رمضان"
+            "type": "hijri",
+            "date": "18 رمضان"
         }
     },
     {
         "is_holiday": false,
         "event_name": "ضربت خوردن حضرت علی علیه السلام",
         "date": {
-            "type": "persian geo",
-            "date": "١٩ رمضان"
+            "type": "hijri",
+            "date": "19 رمضان"
         }
     },
     {
         "is_holiday": true,
         "event_name": "روز جمهوری اسلامی",
         "date": {
-            "type": "persian geo",
-            "date": "۱۲ فروردین"
+            "type": "shamsi",
+            "date": "12 فروردین"
         }
     },
     {
         "is_holiday": true,
         "event_name": "جشن سیزده به در",
         "date": {
-            "type": "persian geo",
-            "date": "۱۳ فروردین"
+            "type": "shamsi",
+            "date": "13 فروردین"
         }
     },
     {
         "is_holiday": true,
         "event_name": "شهادت حضرت علی علیه السلام",
         "date": {
-            "type": "persian geo",
-            "date": "٢١ رمضان"
+            "type": "hijri",
+            "date": "21 رمضان"
         }
     },
     {
         "is_holiday": false,
         "event_name": "شب قدر",
         "date": {
-            "type": "persian geo",
-            "date": "٢٢ رمضان"
+            "type": "hijri",
+            "date": "22 رمضان"
         }
     },
     {
         "is_holiday": false,
         "event_name": "سروش روز،جشن سروشگان",
         "date": {
-            "type": "persian geo",
-            "date": "۱۷ فروردین"
+            "type": "shamsi",
+            "date": "17 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز جهانی بهداشت",
         "date": {
-            "type": "persian geo",
+            "type": "gregorian",
             "date": "7 April"
         }
     },
@@ -163,56 +163,56 @@
         "is_holiday": false,
         "event_name": "فروردین روز،جشن فروردینگان",
         "date": {
-            "type": "persian geo",
-            "date": "۱۹ فروردین"
+            "type": "shamsi",
+            "date": "19 فروردین"
         }
     },
     {
         "is_holiday": true,
         "event_name": "عید سعید فطر",
         "date": {
-            "type": "persian geo",
-            "date": "١ شوال"
+            "type": "hijri",
+            "date": "1 شوال"
         }
     },
     {
         "is_holiday": true,
         "event_name": "تعطیل به مناسبت عید سعید فطر",
         "date": {
-            "type": "persian geo",
-            "date": "٢ شوال"
+            "type": "hijri",
+            "date": "2 شوال"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز دندانپزشک",
         "date": {
-            "type": "persian geo",
-            "date": "۲۳ فروردین"
+            "type": "shamsi",
+            "date": "23 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز بزرگداشت عطار نیشابوری",
         "date": {
-            "type": "persian geo",
-            "date": "۲۵ فروردین"
+            "type": "shamsi",
+            "date": "25 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز ارتش جمهوری اسلامی ایران",
         "date": {
-            "type": "persian geo",
-            "date": "۲۹ فروردین"
+            "type": "shamsi",
+            "date": "29 فروردین"
         }
     },
     {
         "is_holiday": false,
         "event_name": "روز علوم آزمایشگاهی، زاد روز حکیم سید اسماعیل جرجانی",
         "date": {
-            "type": "persian geo",
-            "date": "۳۰ فروردین"
+            "type": "shamsi",
+            "date": "30 فروردین"
         }
     }
 ]
