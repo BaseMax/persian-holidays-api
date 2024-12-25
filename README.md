@@ -92,7 +92,7 @@ The structure of the JSON file is as follows:
 To fetch holidays for a specific year and month:
 
 ```python
-from script import get_for_a_month
+from persianholiday import get_for_a_month
 
 # Specify the year and month
 year = 1403  # Persian year
@@ -126,7 +126,9 @@ C:\Files\Projects\persian-holidays-api
 ├── holidays-12.json
 ├── holidays.json
 ├── requirements.txt
-└── script.py
+├── test.py
+├── update.py
+└── persianholiday.py
 ```
 
 ### License
