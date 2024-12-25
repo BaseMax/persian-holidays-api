@@ -4,13 +4,6 @@ import requests
 from typing import List
 import json
 
-def convert_to_english_digits(text: str) -> str:
-	digit_map = str.maketrans(
-		'٠١٢٣٤٥٦٧٨٩' + '۰۱۲۳۴۵۶۷۸۹',
-		'01234567890123456789'
-	)
-	
-	return text.translate(digit_map)
 
 def contains_persian_or_arabic_digits(text: str) -> bool:
 	# \u06F0-\u06F9 covers Persian digits.
@@ -20,6 +13,16 @@ def contains_persian_or_arabic_digits(text: str) -> bool:
 	if re.search(pattern, text):
 		return True
 	return False
+
+
+def convert_to_english_digits(text: str) -> str:
+	digit_map = str.maketrans(
+		'٠١٢٣٤٥٦٧٨٩' + '۰۱۲۳۴۵۶۷۸۹',
+		'01234567890123456789'
+	)
+	
+	return text.translate(digit_map)
+
 
 def get_for_a_month(year: int, month: int) -> List[str]:
 	month_str = f"{month:02d}"
@@ -51,7 +54,7 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 
 	text = response.text
 
-	f = open(f"data-{year}-{month}.html", "w", encoding="utf-8")
+	f = open(f"data-{year}-{month_str}.html", "w", encoding="utf-8")
 	f.write(text)
 	f.close()
 
@@ -88,10 +91,11 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 			"date": date
 		})
 
-	with open(f'holidays-{year}-{month}.json', 'w', encoding='utf-8') as json_file:
+	with open(f'holidays-{year}-{month_str}.json', 'w', encoding='utf-8') as json_file:
 		json.dump(holidays, json_file, ensure_ascii=False, indent=4)
 
 	return holidays
+
 
 year = 1403
 max_month = 1
