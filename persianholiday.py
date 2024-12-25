@@ -2,11 +2,6 @@ from bs4 import BeautifulSoup
 import re
 import requests
 from typing import List
-import json
-
-
-YEAR = 1403
-MAX_MONTH = 12
 
 
 def contains_persian_or_arabic_digits(text: str) -> bool:
@@ -95,21 +90,4 @@ def get_for_a_month(year: int, month: int) -> List[str]:
 			"date": date
 		})
 
-	with open(f'holidays-{month}.json', 'w', encoding='utf-8') as json_file:
-		json.dump(holidays, json_file, ensure_ascii=False, indent=4)
-
 	return holidays
-
-
-all_holidays = []
-
-for month in range(1, MAX_MONTH + 1):
-	print(month)
-
-	days = get_for_a_month(YEAR, month)
-	print(days)
-
-	all_holidays += days
-
-with open(f'holidays.json', 'w', encoding='utf-8') as json_file:
-	json.dump(all_holidays, json_file, ensure_ascii=False, indent=4)
